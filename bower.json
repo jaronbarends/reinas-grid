@@ -6,9 +6,11 @@
     "Reina Zwarts"
   ],
   "description": "Best grid in the world",
-  "main": "Content/scss/foundation/_grid.scss",
-  "keywords": [
-    "grid"
+  "main": [
+    "src/scss/foundation/_spacing.scss",
+    "src/scss/helpers/_variables.scss",
+    "src/scss/helpers/_mixins.scss",
+    "src/scss/foundation/_grid.scss"
   ],
   "license": "MIT",
   "private": true,
